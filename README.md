@@ -1,27 +1,38 @@
-# vite-template-redux
+# State Managements (series) - Redux Toolkit
 
-Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
+![screenshot](./readme.jpg)
 
-```sh
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-```
+## Deploy
 
-## Goals
+[Online demo - (soon)](#)
 
-- Easy migration from Create React App or Vite
-- As beginner friendly as Create React App
-- Optimized performance compared to Create React App
-- Customizable without ejecting
+---
 
-## Scripts
+## Applied technologies (Stack)
 
-- `dev`/`start` - start dev server and open browser
-- `build` - build for production
-- `preview` - locally preview production build
-- `test` - launch test runner
+### This app was created with this tecnologies: [`React.js`](https://react.dev/) with [`TypeScript`](https://www.typescriptlang.org/). Styles from [`Tailwind CSS`](https://tailwindcss.com/) and Icons from [`React Icons`](https://react-icons.github.io/react-icons/). <br/>
 
-## Inspiration
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem">
+<img title="TypeScript" style="width: 180px" src="./readme-images/typescript-logo.svg" alt="typescript logo"/>
+<img title="Tailwind CSS" style="width: 180px" src="./readme-images/tailwindcss-logo.svg" alt="tailwind logo"/>
+<img title="React.js" style="width: 180px" src="./readme-images/react-logo.svg" alt="react logo"/>
+</div>
 
-- [Create React App](https://github.com/facebook/create-react-app/tree/main/packages/cra-template)
-- [Vite](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react)
-- [Vitest](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
+### This app corresponds to a series of intensive tests for the use of state managers. This is a case study, I used the following library for global state management:
+
+<div style="text-align:center">
+
+## [Redux](https://redux.js.org/)
+
+</div>
+
+![Redux web screenshot](./readme2.jpg)
+
+## Learn More
+
+To learn more about the developer:
+
+- [Sergio Ortega dev](https://sergioortega.com.ar)
+- [Sergio Ortega's portfolio](https://sergioortega.com.ar/#/portfolio) - an interactive portfolio.
+
+---

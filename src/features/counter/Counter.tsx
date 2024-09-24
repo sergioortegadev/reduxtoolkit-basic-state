@@ -41,7 +41,7 @@ export const Counter = () => {
           +
         </button>
       </div>
-      <div className={styles.row}>
+      {/*<div className={styles.row}>
         <input
           className={styles.textbox}
           aria-label="Set increment amount"
@@ -64,15 +64,15 @@ export const Counter = () => {
         >
           Add Async
         </button>
-        <button
+                 <button
           className={styles.button}
           onClick={() => {
             dispatch(incrementIfOdd(incrementValue))
           }}
         >
           Add If Odd
-        </button>
-      </div>
+        </button> 
+      </div>*/}
     </div>
   )
 }
